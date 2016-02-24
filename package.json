@@ -24,6 +24,10 @@
     "concurrently": "^2.0.0",
     "live-server": "^0.9.2",
     "typescript": "^1.8.0",
-    "typings":"^0.6.8"
+    "typings": "^0.6.8"
+  },
+  "jspm": {
+    "dependencies": {},
+    "devDependencies": {}
   }
 }
